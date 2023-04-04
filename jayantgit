@@ -1,2 +1,10 @@
 hello 
 there are few commands
+git init to initialise empty git repo
+git status to check status of code file
+git add to track all git file
+git commit to commit code file
+git log to show timeline where all versions are listed
+git configure user.name "name" to change author name
+git configure user.email to change registered mail
+git clone "link" to download code from github
